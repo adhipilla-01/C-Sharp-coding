@@ -1,0 +1,14 @@
+D:\C#\C#_OopsProject\C#_OopsProject\bin\Debug\net8.0\C#_OopsProject.exe
+D:\C#\C#_OopsProject\C#_OopsProject\bin\Debug\net8.0\C#_OopsProject.deps.json
+D:\C#\C#_OopsProject\C#_OopsProject\bin\Debug\net8.0\C#_OopsProject.runtimeconfig.json
+D:\C#\C#_OopsProject\C#_OopsProject\bin\Debug\net8.0\C#_OopsProject.dll
+D:\C#\C#_OopsProject\C#_OopsProject\bin\Debug\net8.0\C#_OopsProject.pdb
+D:\C#\C#_OopsProject\C#_OopsProject\obj\Debug\net8.0\C#_OopsProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C#_OopsProject\C#_OopsProject\obj\Debug\net8.0\C#_OopsProject.AssemblyInfoInputs.cache
+D:\C#\C#_OopsProject\C#_OopsProject\obj\Debug\net8.0\C#_OopsProject.AssemblyInfo.cs
+D:\C#\C#_OopsProject\C#_OopsProject\obj\Debug\net8.0\C#_OopsProject.csproj.CoreCompileInputs.cache
+D:\C#\C#_OopsProject\C#_OopsProject\obj\Debug\net8.0\C#_OopsProject.dll
+D:\C#\C#_OopsProject\C#_OopsProject\obj\Debug\net8.0\refint\C#_OopsProject.dll
+D:\C#\C#_OopsProject\C#_OopsProject\obj\Debug\net8.0\C#_OopsProject.pdb
+D:\C#\C#_OopsProject\C#_OopsProject\obj\Debug\net8.0\C#_OopsProject.genruntimeconfig.cache
+D:\C#\C#_OopsProject\C#_OopsProject\obj\Debug\net8.0\ref\C#_OopsProject.dll
