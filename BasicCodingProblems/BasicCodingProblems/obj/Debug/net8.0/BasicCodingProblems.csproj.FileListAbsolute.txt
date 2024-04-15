@@ -1,0 +1,14 @@
+D:\C#\BasicCodingProblems\BasicCodingProblems\bin\Debug\net8.0\BasicCodingProblems.exe
+D:\C#\BasicCodingProblems\BasicCodingProblems\bin\Debug\net8.0\BasicCodingProblems.deps.json
+D:\C#\BasicCodingProblems\BasicCodingProblems\bin\Debug\net8.0\BasicCodingProblems.runtimeconfig.json
+D:\C#\BasicCodingProblems\BasicCodingProblems\bin\Debug\net8.0\BasicCodingProblems.dll
+D:\C#\BasicCodingProblems\BasicCodingProblems\bin\Debug\net8.0\BasicCodingProblems.pdb
+D:\C#\BasicCodingProblems\BasicCodingProblems\obj\Debug\net8.0\BasicCodingProblems.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\BasicCodingProblems\BasicCodingProblems\obj\Debug\net8.0\BasicCodingProblems.AssemblyInfoInputs.cache
+D:\C#\BasicCodingProblems\BasicCodingProblems\obj\Debug\net8.0\BasicCodingProblems.AssemblyInfo.cs
+D:\C#\BasicCodingProblems\BasicCodingProblems\obj\Debug\net8.0\BasicCodingProblems.csproj.CoreCompileInputs.cache
+D:\C#\BasicCodingProblems\BasicCodingProblems\obj\Debug\net8.0\BasicCodingProblems.dll
+D:\C#\BasicCodingProblems\BasicCodingProblems\obj\Debug\net8.0\refint\BasicCodingProblems.dll
+D:\C#\BasicCodingProblems\BasicCodingProblems\obj\Debug\net8.0\BasicCodingProblems.pdb
+D:\C#\BasicCodingProblems\BasicCodingProblems\obj\Debug\net8.0\BasicCodingProblems.genruntimeconfig.cache
+D:\C#\BasicCodingProblems\BasicCodingProblems\obj\Debug\net8.0\ref\BasicCodingProblems.dll
