@@ -1,0 +1,7 @@
+D:\C#\OopsDay_03_ShapeAreas\OopsDay_03_ShapeAreas\bin\Debug\OopsDay_03_ShapeAreas.exe.config
+D:\C#\OopsDay_03_ShapeAreas\OopsDay_03_ShapeAreas\bin\Debug\OopsDay_03_ShapeAreas.exe
+D:\C#\OopsDay_03_ShapeAreas\OopsDay_03_ShapeAreas\bin\Debug\OopsDay_03_ShapeAreas.pdb
+D:\C#\OopsDay_03_ShapeAreas\OopsDay_03_ShapeAreas\obj\Debug\OopsDay_03_ShapeAreas.csproj.AssemblyReference.cache
+D:\C#\OopsDay_03_ShapeAreas\OopsDay_03_ShapeAreas\obj\Debug\OopsDay_03_ShapeAreas.csproj.CoreCompileInputs.cache
+D:\C#\OopsDay_03_ShapeAreas\OopsDay_03_ShapeAreas\obj\Debug\OopsDay_03_ShapeAreas.exe
+D:\C#\OopsDay_03_ShapeAreas\OopsDay_03_ShapeAreas\obj\Debug\OopsDay_03_ShapeAreas.pdb
